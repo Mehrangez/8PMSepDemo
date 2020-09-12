@@ -10,7 +10,7 @@
   <test name="Selenium scripts1" >
 <!--   // names of the class that we want to execute  -->
     <classes>
-       <class name="com.TestNGScripts.AnnotationsTestNG" />
+       <class name="com.TestNGScripts.RegressionRunner.xml" />
     
      </classes>
  
